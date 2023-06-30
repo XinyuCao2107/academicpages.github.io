@@ -10,7 +10,7 @@ redirect_from:
 
 RESEARCH INTERESTS
 ======
-**Methodology**: Field Experiments, Empirical Modeling, Applied Game Theory, 
+**Methodology**: Field Experiments, Empirical Modeling, Applied Game Theory
 
 **Substantive**: Market Research Methodology, Online Platforms, Online Advertising, Social Media
 
