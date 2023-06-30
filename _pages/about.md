@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-ACADEMIC EMPLOYMENT
+RESEARCH INTERESTS
 ======
-* The Chinese University of Hong Kong, CUHK Business School
-    + 2022-2023 Visiting Scholar
-    + 2023-   Vice-Chancellor Associate Professor 
-
-* New York University, Stern School of Business
-    + 2018-2023 Assistant Professor of Marketing (on leave during 2022-2023)
+**Methodology**: Field Experiments, Empirical Modeling, Applied Game Theory, 
+**Substantive**: Market Research Methodology, Online Platforms, Online Advertising, Social Media
 
 CONTACT
 ======
