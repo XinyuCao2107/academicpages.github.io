@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: 
-permalink: /research/
-author_profile: true 
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-
-{% include base_path %}
 
 PUBLICATIONS  
 ======
@@ -41,6 +39,4 @@ SELECTED WORK IN PROGRESS
 * "[Dynamics of Racial Discrimination on an Online Gig Economy Platform]()'', with Ruomeng Cui, Peibo Zhang, Dennis Zhang
 
 * “[The Impact of Forced Intervention on Algorithm Aversion]()'', with Dennis Zhang
-
-
 
