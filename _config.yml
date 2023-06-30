@@ -82,10 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Cao"
-  # avatar           : "Identification Photo.jpg"
+  avatar           : "Identification Photo.jpg"
   location         : "Hong Kong SAR"
-  CV               : "http://xinyucao-mkt.github.io/cv.pdf"
-  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499"
+  google scholar   : "https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en"
 
 
 # Reading Files
