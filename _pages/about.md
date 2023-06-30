@@ -19,6 +19,6 @@ ACADEMIC EMPLOYMENT
 
 CONTACT
 ======
-**Adress**: Room 1112, 11/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, N.T., Hong Kong 
+**Adress**: Room 1112, 11/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, New Territories, Hong Kong SAR, China
 
 **Email**: xinyucao@cuhk.edu.hk
