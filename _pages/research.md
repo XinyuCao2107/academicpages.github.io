@@ -5,9 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-
+Publications
 ======
-
 * "[The Power of Commitment in Group Search](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437993)'', Xinyu Cao, Yuting Zhu. Marketing Science, forthcoming.
 
 * "[The Impact of COVID-19 Pandemic on the Behavior of Online Gig Workers](https://pubsonline.informs.org/doi/10.1287/msom.2022.1113)'', Xinyu Cao, Dennis Zhang, Lei Huang. M&SOM, 24.5 (2022): 2611-2628.
