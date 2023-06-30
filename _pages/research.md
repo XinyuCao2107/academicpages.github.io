@@ -27,9 +27,9 @@ author_profile: true
 
 WORKING PAPERS
 ======
-* "[NFT Royalties and Art Market Efficiency]()'', Xinyu Cao, Jieteng Chen, Tony Ke. In preparation for submission.
+* "NFT Royalties and Art Market Efficiency'', Xinyu Cao, Jieteng Chen, Tony Ke. In preparation for submission.
 
-* "[The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach]()'', Xinyu Cao, Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen. In preparation for submission.
+* "The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach'', Xinyu Cao, Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen. In preparation for submission.
 
 
 
