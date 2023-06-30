@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [[here](http://xinyucao-mkt.github.io/cv.doc)]
+Download my CV [[here](http://xinyucao-mkt.github.io/cv.pdf)]
