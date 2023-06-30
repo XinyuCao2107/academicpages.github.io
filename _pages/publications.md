@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title:
 permalink: /publications/
 author_profile: true
 ---
@@ -30,13 +30,13 @@ WORKING PAPERS
 
 SELECTED WORK IN PROGRESS
 ======
-* "[When Content Creation Becomes a Job]()'', with Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen
+* "When Content Creation Becomes a Job'', with Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen
 
-* "[Image Information Load and Online Sales]()'', with Kanghua Zhang, Yuting Zhu, Yongbin Ma
+* "Image Information Load and Online Sales'', with Kanghua Zhang, Yuting Zhu, Yongbin Ma
 
-* "[Learning by Doing or Learning by Earning: Evidence from an Online Gig Economy Platform]()'', with Dennis Zhang
+* "Learning by Doing or Learning by Earning: Evidence from an Online Gig Economy Platform'', with Dennis Zhang
 
-* "[Dynamics of Racial Discrimination on an Online Gig Economy Platform]()'', with Ruomeng Cui, Peibo Zhang, Dennis Zhang
+* "Dynamics of Racial Discrimination on an Online Gig Economy Platform'', with Ruomeng Cui, Peibo Zhang, Dennis Zhang
 
-* “[The Impact of Forced Intervention on Algorithm Aversion]()'', with Dennis Zhang
+* “The Impact of Forced Intervention on Algorithm Aversion'', with Dennis Zhang
 
