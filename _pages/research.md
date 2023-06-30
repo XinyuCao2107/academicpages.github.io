@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -20,7 +20,6 @@ Publications
 * "[How do successful scholars get their best research ideas? An exploration](https://link.springer.com/article/10.1007/s11002-019-09506-7)'', Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, Jeremy Yang, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt. Marketing Letters 30.3 (2019): 221-232.
 
 * "[Stochastic Control for Smart Grid Users with Flexible Demand](https://ieeexplore.ieee.org/document/6558842)'', Yong Liang, Long He, Xinyu Cao, and Zuo-Jun Max Shen. IEEE Transactions on Smart Grid 4.4 (2013): 2296-2308.
-***
 
 
 
