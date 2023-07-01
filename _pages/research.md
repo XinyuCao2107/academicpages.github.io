@@ -30,16 +30,3 @@ WORKING PAPERS
 * "The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach'', Xinyu Cao, Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen. In preparation for submission.
 
 
-
-SELECTED WORK IN PROGRESS
-======
-* "When Content Creation Becomes a Job'', with Yan Cheng, Jingbo Wang, Zuo-Jun Max Shen
-
-* "Image Information Load and Online Sales'', with Kanghua Zhang, Yuting Zhu, Yongbin Ma
-
-* "Learning by Doing or Learning by Earning: Evidence from an Online Gig Economy Platform'', with Dennis Zhang
-
-* "Dynamics of Racial Discrimination on an Online Gig Economy Platform'', with Ruomeng Cui, Peibo Zhang, Dennis Zhang
-
-* “The Impact of Forced Intervention on Algorithm Aversion'', with Dennis Zhang
-
