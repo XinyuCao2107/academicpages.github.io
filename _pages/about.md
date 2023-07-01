@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-RESEARCH INTERESTS
-======
-**Methodology**: Field Experiments, Empirical Modeling, Applied Game Theory
-
-**Substantive**: Market Research Methodology, Online Platforms, Online Advertising, Social Media
-
 Download my CV [here](https://drive.google.com/file/d/1QOTRwR8lBP7CsBvb86GALRkvi-khMVAK/view)
 
 CONTACT
