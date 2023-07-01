@@ -22,6 +22,5 @@ NYU Stern School of Management
 ======
 Introduction to Marketing (Undergraduate), Spring 2019/2020/2021/2022<br>
   * Teaching Evaluation (average): 4.6/5.0
-}
   
 Guest Lecture on Field Experiments (PhD seminar), Fall 2018, Fall 2020, Fall 2022
