@@ -23,7 +23,7 @@ Publications
 
 
 
-WORKING PAPERS
+Working Papers
 ======
 * "NFT Royalties and Art Market Efficiency'', Xinyu Cao, Jieteng Chen, Tony Ke. In preparation for submission.
 
