@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* [Curriculum Vitae](https://drive.google.com/file/d/1QOTRwR8lBP7CsBvb86GALRkvi-khMVAK/view)
+* [Curriculum Vitae](https://www.dropbox.com/s/6ap2krtsmzc0o74/CV.docx?dl=0)
 * [Google Scholar](https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en)
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499)
 * [CUHK Website](https://www.bschool.cuhk.edu.hk/staff/cao-xinyu/)
