@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I am ...
 
 
 * [Curriculum Vitae](https://www.dropbox.com/s/6ap2krtsmzc0o74/CV.docx?dl=0)
