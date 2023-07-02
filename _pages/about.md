@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Links
-======
+
+
 * [Curriculum Vitae](https://drive.google.com/file/d/1QOTRwR8lBP7CsBvb86GALRkvi-khMVAK/view)
 * [Google Scholar](https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en)
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499)
