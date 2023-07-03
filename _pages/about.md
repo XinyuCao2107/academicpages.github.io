@@ -22,5 +22,7 @@ Contact
 * **Email**: [xinyucao@cuhk.edu.hk](mailto:xinyucao@cuhk.edu.hk)
 
 * [**Google Scholar**](https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en)
+
 * [**SSRN**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499)
+
 * [**CUHK Website**](https://www.bschool.cuhk.edu.hk/staff/cao-xinyu/)
