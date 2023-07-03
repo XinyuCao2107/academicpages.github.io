@@ -12,7 +12,7 @@ Prof. Xinyu Cao joined the Chinese University of Hong Kong (CUHK) Business Schoo
 Prof. Cao’s research focuses on the area of quantitative marketing, with emphases on market research methodology, online platforms, online advertising, and social media. Her research works have appeared in Marketing Science, M&SOM, and Marketing Letters. She has won the John D.C. Little Award for the best marketing paper published in INFORMS journals, and also been a finalist for the Frank Bass Award for the best marketing thesis. She is on the editorial board for Marketing Science.
 
 
-[**Curriculum Vitae**](https://www.dropbox.com/s/6ap2krtsmzc0o74/CV.docx?dl=0)
+[Curriculum Vitae](https://www.dropbox.com/s/6ap2krtsmzc0o74/CV.docx?dl=0)
 
 
 Contact
