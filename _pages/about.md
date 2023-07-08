@@ -15,14 +15,11 @@ Prof. Cao’s research focuses on the area of quantitative marketing, with empha
 [**Curriculum Vitae**](https://www.dropbox.com/s/6ap2krtsmzc0o74/CV.docx?dl=0)
 
 
-Contact
-======
-* **Adress**: Room 1112, 11/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, New Territories, Hong Kong SAR, China
 
-* **Email**: [xinyucao@cuhk.edu.hk](mailto:xinyucao@cuhk.edu.hk)
+**Contact**
 
-* [**Google Scholar**](https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en)
+Adress: Room 1112, 11/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, New Territories, Hong Kong SAR, China
 
-* [**SSRN**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499)
+Email: [xinyucao@cuhk.edu.hk](mailto:xinyucao@cuhk.edu.hk)
 
-* [**CUHK Website**](https://www.bschool.cuhk.edu.hk/staff/cao-xinyu/)
+[Google Scholar](https://scholar.google.com/citations?user=ScwrGA0AAAAJ&hl=en), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2526499), [CUHK Website](https://www.bschool.cuhk.edu.hk/staff/cao-xinyu/)
