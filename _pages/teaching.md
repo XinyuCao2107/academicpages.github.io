@@ -10,7 +10,7 @@ author_profile: true
 
 The Chinese University of Hong Kong   
 ======
-Marketing Strategy (Finance EMBA), Fall 2023, Spring 2024
+Marketing Strategy (Finance EMBA), Fall 2023<br>
 
 Social Media Analytics (MSc in Marketing), Winter 2022, Spring 2024<br>
 
