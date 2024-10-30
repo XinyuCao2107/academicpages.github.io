@@ -25,19 +25,20 @@ Publications
 
 Working Papers
 ======
-1. **"From Canvas to Blockchain: Impact of Royalties on Art Market Efficiency"**, Xinyu Cao, Jieteng Chen*, Tony Ke. *Management Science*, Major revision.
 
-2. **"Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach"**, Yan Cheng*, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang. *Marketing Science*, Major revision. (The first three authors contribute equally.)
+* ["From Canvas to Blockchain: Impact of Royalties on Art Market Efficiency"](https://ssrn.com/abstract=4609653), Xinyu Cao, Jieteng Chen*, Tony Ke. *Management Science*, Major revision.
 
-3. **"How Forced Intervention Facilitates Long-term Algorithm Adoption"**, Xinyu Cao, Chenshan Hu*, Jiankun Sun, Dennis Zhang. *M&SOM*, Major revision.
+* ["How Forced Intervention Facilitates Long-term Algorithm Adoption"](https://ssrn.com/abstract=3640862), Xinyu Cao, Chenshan Hu*, Jiankun Sun, Dennis Zhang. *M&SOM*, Major revision.
 
-4. **"Authenticity Matters: The Persuasive Power of Pronoun Choices in Product Recommendation Posts on Social Media"**, Chong Yu*, Leilei Gao, Xinyu Cao. *Journal of Marketing Research*, under review.
+* Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach, Yan Cheng*, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang. *Marketing Science*, Major revision. (The first three authors contribute equally.)
 
-5. **"Should Video Sharing Platforms Encourage More Bullet Chats: Estimating the Heterogeneous Treatment Effect using a Control Function Approach"**, Xinyu Cao, Yan Cheng*, Jingbo Wang, Zuo-Jun Max Shen. (The first three authors contribute equally.)
 
-6. **"The Long-Term Impact of Wage on Gig Workers’ Behaviors"**, Shilei Luo*, Xinyu Cao, Dennis Zhang.
+* Authenticity Matters: The Persuasive Power of Pronoun Choices in Product Recommendation Posts on Social Media, Chong Yu*, Leilei Gao, Xinyu Cao. *Journal of Marketing Research*, under review.
 
-7. **"Dynamic Discrimination in Online Platforms"**, Peibo Zhang*, Xinyu Cao, Dennis Zhang, Ruomeng Cui.
+* Should Video Sharing Platforms Encourage More Bullet Chats: Estimating the Heterogeneous Treatment Effect using a Control Function Approach, Xinyu Cao, Yan Cheng*, Jingbo Wang, Zuo-Jun Max Shen. (The first three authors contribute equally.)
+
+* The Long-Term Impact of Wage on Gig Workers’ Behaviors, Shilei Luo*, Xinyu Cao, Dennis Zhang.
+
+* Dynamic Discrimination in Online Platforms, Peibo Zhang*, Xinyu Cao, Dennis Zhang, Ruomeng Cui.
 
 (* indicates Ph.D. students)
-
